@@ -1,0 +1,17 @@
+﻿1. https://codeforces.com/problemset/problem/266/A #####
+2. https://codeforces.com/problemset/problem/734/A  #####
+3. https://www.hackerrank.com/challenges/plus-minus/problem ####
+4. https://www.hackerrank.com/challenges/diagonal-difference/problem  ###
+5. https://atcoder.jp/contests/abc191/tasks/abc191_b?lang=en  ###
+6. https://codeforces.com/problemset/problem/440/A ###
+7. https://codeforces.com/problemset/problem/621/A ###
+8. https://codeforces.com/problemset/problem/1604/A ### (Bad Attempt) Focus More Bro
+9. https://codeforces.com/problemset/problem/1554/A ###
+10. https://cses.fi/problemset/task/1643 ###
+11. https://www.codechef.com/problems/BIT  ###
+12. https://www.codechef.com/problems/BITMAGIC ###
+13. https://www.eolymp.com/en/problems/1647
+14. https://www.hackerrank.com/challenges/flipping-bits/problem  ###
+15. https://toph.co/p/tidy-bits
+16. https://codeforces.com/problemset/problem/258/A    #### (IMP)
+17. https://codeforces.com/problemset/problem/550/B  ###    (IMP)
